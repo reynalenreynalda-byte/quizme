@@ -132,6 +132,7 @@
             })
             .then(function(data) {
                 quizzes = data;
+               console.log("coming from the json");
                 initializeApp();
             })
             .catch(function(error) {
@@ -357,4 +358,5 @@
             quizPage.querySelector('.result-screen').classList.remove('show');
             
             initializeQuizCards(quizId);
+
         }
