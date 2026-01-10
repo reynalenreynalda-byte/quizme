@@ -78,50 +78,50 @@
 
         // OPTION 1: Load from external JSON file (uncomment to use)
         // Embedded fallback quizzes used when `quizzes.json` cannot be fetched
-        const fallbackQuizzes = [
-            {
-                id: 'general',
-                title: 'General Knowledge',
-                icon: '🌍',
-                description: 'Test your knowledge across various topics',
-                questions: [
-                    { question: "What is the capital of France?", options: ["London", "Berlin", "Paris", "Madrid"], correct: 2, icon: "🗼" },
-                    { question: "Which planet is known as the Red Planet?", options: ["Venus", "Mars", "Jupiter", "Saturn"], correct: 1, icon: "🔴" },
-                    { question: "Who painted the Mona Lisa?", options: ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"], correct: 2, icon: "🎨" },
-                    { question: "What is the largest ocean on Earth?", options: ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"], correct: 3, icon: "🌊" },
-                    { question: "In what year did World War II end?", options: ["1943", "1944", "1945", "1946"], correct: 2, icon: "📅" },
-                    { question: "What is the smallest prime number?", options: ["0", "1", "2", "3"], correct: 2, icon: "🔢" }
-                ]
-            },
-            {
-                id: 'science',
-                title: 'Science & Nature',
-                icon: '🔬',
-                description: 'Explore the wonders of science',
-                questions: [
-                    { question: "What is the chemical symbol for gold?", options: ["Go", "Gd", "Au", "Ag"], correct: 2, icon: "⚛️" },
-                    { question: "How many bones are in the human body?", options: ["186", "206", "226", "246"], correct: 1, icon: "🦴" },
-                    { question: "What is the speed of light?", options: ["299,792 km/s", "199,792 km/s", "399,792 km/s", "499,792 km/s"], correct: 0, icon: "💡" },
-                    { question: "What gas do plants absorb from the atmosphere?", options: ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"], correct: 2, icon: "🌱" },
-                    { question: "What is the hardest natural substance?", options: ["Gold", "Iron", "Diamond", "Platinum"], correct: 2, icon: "💎" },
-                    { question: "How many hearts does an octopus have?", options: ["1", "2", "3", "4"], correct: 2, icon: "🐙" }
-                ]
-            },
-            {
-                id: 'movies',
-                title: 'Movies & Entertainment',
-                icon: '🎬',
-                description: 'Lights, camera, action! Test your film knowledge',
-                questions: [
-                    { question: "Which movie won the Best Picture Oscar in 1994?", options: ["Pulp Fiction", "The Shawshank Redemption", "Forrest Gump", "The Lion King"], correct: 2, icon: "🏆" },
-                    { question: "Who directed \"Inception\"?", options: ["Steven Spielberg", "Christopher Nolan", "Quentin Tarantino", "Martin Scorsese"], correct: 1, icon: "🎥" },
-                    { question: "What is the highest-grossing film of all time?", options: ["Avengers: Endgame", "Avatar", "Titanic", "Star Wars"], correct: 1, icon: "💰" },
-                    { question: "In which film did Leonardo DiCaprio win his first Oscar?", options: ["The Wolf of Wall Street", "The Revenant", "Inception", "Django Unchained"], correct: 1, icon: "🐻" },
-                    { question: "What year was the first \"Jurassic Park\" released?", options: ["1991", "1992", "1993", "1994"], correct: 2, icon: "🦖" },
-                    { question: "Who played Iron Man in the Marvel Cinematic Universe?", options: ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"], correct: 2, icon: "🦾" }
-                ]
-            }
-        ];
+        // const fallbackQuizzes = [
+        //     {
+        //         id: 'general',
+        //         title: 'General Knowledge',
+        //         icon: '🌍',
+        //         description: 'Test your knowledge across various topics',
+        //         questions: [
+        //             { question: "What is the capital of France?", options: ["London", "Berlin", "Paris", "Madrid"], correct: 2, icon: "🗼" },
+        //             { question: "Which planet is known as the Red Planet?", options: ["Venus", "Mars", "Jupiter", "Saturn"], correct: 1, icon: "🔴" },
+        //             { question: "Who painted the Mona Lisa?", options: ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"], correct: 2, icon: "🎨" },
+        //             { question: "What is the largest ocean on Earth?", options: ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"], correct: 3, icon: "🌊" },
+        //             { question: "In what year did World War II end?", options: ["1943", "1944", "1945", "1946"], correct: 2, icon: "📅" },
+        //             { question: "What is the smallest prime number?", options: ["0", "1", "2", "3"], correct: 2, icon: "🔢" }
+        //         ]
+        //     },
+        //     {
+        //         id: 'science',
+        //         title: 'Science & Nature',
+        //         icon: '🔬',
+        //         description: 'Explore the wonders of science',
+        //         questions: [
+        //             { question: "What is the chemical symbol for gold?", options: ["Go", "Gd", "Au", "Ag"], correct: 2, icon: "⚛️" },
+        //             { question: "How many bones are in the human body?", options: ["186", "206", "226", "246"], correct: 1, icon: "🦴" },
+        //             { question: "What is the speed of light?", options: ["299,792 km/s", "199,792 km/s", "399,792 km/s", "499,792 km/s"], correct: 0, icon: "💡" },
+        //             { question: "What gas do plants absorb from the atmosphere?", options: ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"], correct: 2, icon: "🌱" },
+        //             { question: "What is the hardest natural substance?", options: ["Gold", "Iron", "Diamond", "Platinum"], correct: 2, icon: "💎" },
+        //             { question: "How many hearts does an octopus have?", options: ["1", "2", "3", "4"], correct: 2, icon: "🐙" }
+        //         ]
+        //     },
+        //     {
+        //         id: 'movies',
+        //         title: 'Movies & Entertainment',
+        //         icon: '🎬',
+        //         description: 'Lights, camera, action! Test your film knowledge',
+        //         questions: [
+        //             { question: "Which movie won the Best Picture Oscar in 1994?", options: ["Pulp Fiction", "The Shawshank Redemption", "Forrest Gump", "The Lion King"], correct: 2, icon: "🏆" },
+        //             { question: "Who directed \"Inception\"?", options: ["Steven Spielberg", "Christopher Nolan", "Quentin Tarantino", "Martin Scorsese"], correct: 1, icon: "🎥" },
+        //             { question: "What is the highest-grossing film of all time?", options: ["Avengers: Endgame", "Avatar", "Titanic", "Star Wars"], correct: 1, icon: "💰" },
+        //             { question: "In which film did Leonardo DiCaprio win his first Oscar?", options: ["The Wolf of Wall Street", "The Revenant", "Inception", "Django Unchained"], correct: 1, icon: "🐻" },
+        //             { question: "What year was the first \"Jurassic Park\" released?", options: ["1991", "1992", "1993", "1994"], correct: 2, icon: "🦖" },
+        //             { question: "Who played Iron Man in the Marvel Cinematic Universe?", options: ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"], correct: 2, icon: "🦾" }
+        //         ]
+        //     }
+        // ];
 
         // Use a relative path so the file can be fetched when served from the same folder.
         // Note: opening the HTML via file:// may block fetch in some browsers — run a local server if needed.
@@ -360,3 +360,4 @@
             initializeQuizCards(quizId);
 
         }
+
