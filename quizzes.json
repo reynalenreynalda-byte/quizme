@@ -3,7 +3,7 @@
                 "id": "general",
                 "title": "School",
                 "icon": "🏫",
-                "description": "My first day of school was a disaster from start to finish.",
+                "description": "TOPIC SENTENCE: \"My first day of school was a disaster from start to finish.\"",
                 "questions": [
                     { "question": "I arrived late to class.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🕰️" },
                     { "question": "The cafeteria served pizza for lunch.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🍕" },
@@ -85,6 +85,7 @@
             }
 
         ]
+
 
 
 
