@@ -65,7 +65,7 @@
             font-size: 1.2em;
             line-height: 1.8;
             margin-bottom: 50px;
-            max-width: 700px;
+            max-width: 1000px;
             margin-left: auto;
             margin-right: auto;
             background: rgba(255, 255, 255, 0.1);
@@ -383,4 +383,5 @@
         .btn:hover {
             background: #764ba2;
         }
+
 
