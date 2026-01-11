@@ -1,16 +1,16 @@
  [
             {
                 "id": "general",
-                "title": "General Knowledge",
-                "icon": "🌍",
-                "description": "Test your knowledge across various topics",
+                "title": "School",
+                "icon": "🏫",
+                "description": "My first day of school was a disaster from start to finish.",
                 "questions": [
-                    { "question": "What is the capital of France?", "options": ["London", "Berlin", "Paris"], "correct": 2, "icon": "🗼" },
-                    { "question": "Which planet is known as the Red Planet?", "options": ["Venus", "Mars", "Jupiter", "Saturn"], "correct": 1, "icon": "🔴" },
-                    { "question": "Who painted the Mona Lisa?", "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"], "correct": 2, "icon": "🎨" },
-                    { "question": "What is the largest ocean on Earth?", "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"], "correct": 3, "icon": "🌊" },
-                    { "question": "In what year did World War II end?", "options": ["1943", "1944", "1945", "1946"], "correct": 2, "icon": "📅" },
-                    { "question": "What is the smallest prime number?", "options": ["0", "1", "2", "3"], "correct": 2, "icon": "🔢" }
+                    { "question": "I arrived late to class.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🕰️" },
+                    { "question": "The cafeteria served pizza for lunch.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🍕" },
+                    { "question": "My history teacher gave a pop quiz I wasn't ready for.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "📝" },
+                    { "question": "In botany, I had a sneezing fit from a plant and had to leave the room.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🌱" },
+                    { "question": "I found a lost wallet and returned it to the office.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💵" },
+                    { "question": "I locked my keys in my car after school", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🔒" }
                 ]
             },
             {
@@ -71,4 +71,5 @@
             }
 
         ]
+
 
