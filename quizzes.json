@@ -15,61 +15,76 @@
             },
             {
                 "id": "science",
-                "title": "Science & Nature",
-                "icon": "🔬",
-                "description": "Explore the wonders of science",
+                "title": "Exercise",
+                "icon": "💪",
+                "description": "Exercise significantly improves mental well-being.",
                 "questions": [
-                    { "question": "What is the chemical symbol for gold?", "options": ["Go", "Gd", "Au", "Ag"], "correct": 2, "icon": "⚛️" },
-                    { "question": "How many bones are in the human body?", "options": ["186", "206", "226", "246"], "correct": 1, "icon": "🦴" },
-                    { "question": "What is the speed of light?", "options": ["299,792 km/s", "199,792 km/s", "399,792 km/s", "499,792 km/s"], "correct": 0, "icon": "💡" },
-                    { "question": "What gas do plants absorb from the atmosphere?", "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"], "correct": 2, "icon": "🌱" },
-                    { "question": "What is the hardest natural substance?", "options": ["Gold", "Iron", "Diamond", "Platinum"], "correct": 2, "icon": "💎" },
-                    { "question": "How many hearts does an octopus have?", "options": ["1", "2", "3", "4"], "correct": 2, "icon": "🐙" }
+                    { "question": "Exercise builds large muscles quickly.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💪" },
+                    { "question": "Running burns more calories than walking.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🏃‍♂️" },
+                    { "question": "It helps manage stress by influencing brain chemistry and boosts mood.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "😁" },
+                    { "question": "It allows for clearer thinking, making it a powerful tool for mental health.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "💭" },
+                    { "question": "Exercise causes muscle soreness the next day.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "😣" },
+                    { "question": "Exercise improves posture and balance.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "⚖️" }
                 ]
             },
             {
                 "id": "movies",
-                "title": "Movies & Entertainment",
-                "icon": "🎬",
-                "description": "Lights, camera, action! Test your film knowledge",
+                "title": "Trees",
+                "icon": "🌳",
+                "description": "Trees provide many essential benefits to our environment.",
                 "questions": [
-                    { "question": "Which movie won the Best Picture Oscar in 1994?", "options": ["Pulp Fiction", "The Shawshank Redemption", "Forrest Gump", "The Lion King"], "correct": 2, "icon": "🏆" },
-                    { "question": "Who directed \"Inception\"?", "options": ["Steven Spielberg", "Christopher Nolan", "Quentin Tarantino", "Martin Scorsese"], "correct": 1, "icon": "🎥" },
-                    { "question": "What is the highest-grossing film of all time?", "options": ["Avengers: Endgame", "Avatar", "Titanic", "Star Wars"], "correct": 1, "icon": "💰" },
-                    { "question": "In which film did Leonardo DiCaprio win his first Oscar?", "options": ["The Wolf of Wall Street", "The Revenant", "Inception", "Django Unchained"], "correct": 1, "icon": "🐻" },
-                    { "question": "What year was the first \"Jurassic Park\" released?", "options": ["1991", "1992", "1993", "1994"], "correct": 2, "icon": "🦖" },
-                    { "question": "Who played Iron Man in the Marvel Cinematic Universe?", "options": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"], "correct": 2, "icon": "🦾" }
+                    { "question": "They offer shade and shelter for animals.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "😎" },
+                    { "question": "Trees produce oxygen.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🫧" },
+                    { "question": "Trees attract bees that make honey.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🐝" },
+                    { "question": "Leaves make a mess on sidewalks in autumn.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🍃" },
+                    { "question": "They help prevent soil erosion and floods.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🪨" },
+                    { "question": "Construction crews remove trees to build roads.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🦺" }
                 ]
             },
             {
                 "id": "reg",
-                "title": "Movies & Entertainment",
-                "icon": "🎬",
-                "description": "Lights, camera, action! Test your film knowledge",
+                "title": "Parents",
+                "icon": "👨‍👩‍👧‍👦",
+                "description": "Parents can help their children be successful in school by encouraging them.",
                 "questions": [
-                    { "question": "Which movie won the Best Picture Oscar in 1994?", "options": ["Pulp Fiction", "The Shawshank Redemption", "Forrest Gump", "The Lion King"], "correct": 2, "icon": "🏆" },
-                    { "question": "Who directed \"Inception\"?", "options": ["Steven Spielberg", "Christopher Nolan", "Quentin Tarantino", "Martin Scorsese"], "correct": 1, "icon": "🎥" },
-                    { "question": "What is the highest-grossing film of all time?", "options": ["Avengers: Endgame", "Avatar", "Titanic", "Star Wars"], "correct": 1, "icon": "💰" },
-                    { "question": "In which film did Leonardo DiCaprio win his first Oscar?", "options": ["The Wolf of Wall Street", "The Revenant", "Inception", "Django Unchained"], "correct": 1, "icon": "🐻" },
-                    { "question": "What year was the first \"Jurassic Park\" released?", "options": ["1991", "1992", "1993", "1994"], "correct": 2, "icon": "🦖" },
-                    { "question": "Who played Iron Man in the Marvel Cinematic Universe?", "options": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"], "correct": 2, "icon": "🦾" }
+                    { "question": "Giving children unlimited pocket money builds confidence.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💰" },
+                    { "question": "Buying the latest smartphone will improve grades.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "📱" },
+                    { "question": "Letting children skip school when they feel bored is fine.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💤" },
+                    { "question": "Parents should buy story books with pictures.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🖼️" },
+                    { "question": "They can buy text books or tapes that help children learn to spell or read.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "📼" },
+                    { "question": "Parents should reward them when they get an \"A\".", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🅰️" }
                 ]
             },
             {
                 "id": "rey",
-                "title": "General Knowledge",
-                "icon": "🌍",
-                "description": "Test your knowledge across various topics",
+                "title": "Vacation",
+                "icon": "😞",
+                "description": "My visit to a slum area after the rainy season was a sad affair.",
                 "questions": [
-                    { "question": "What is the capital of France?", "options": ["London", "Berlin", "Paris"], "correct": 2, "icon": "🗼" },
-                    { "question": "Which planet is known as the Red Planet?", "options": ["Venus", "Mars", "Jupiter", "Saturn"], "correct": 1, "icon": "🔴" },
-                    { "question": "Who painted the Mona Lisa?", "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"], "correct": 2, "icon": "🎨" },
-                    { "question": "What is the largest ocean on Earth?", "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"], "correct": 3, "icon": "🌊" },
-                    { "question": "In what year did World War II end?", "options": ["1943", "1944", "1945", "1946"], "correct": 2, "icon": "📅" },
-                    { "question": "What is the smallest prime number?", "options": ["0", "1", "2", "3"], "correct": 2, "icon": "🔢" }
+                    { "question": "A new health clinic had opened nearby offering free checkups.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🏥" },
+                    { "question": "The pits were still full of rain water and there was mud all around.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🌧️" },
+                    { "question": "The polluted water had caused various diseases.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🦠" },
+                    { "question": "There was no home without a sick person.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "😷" },
+                    { "question": "Children were so thin and severely malnourished.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🤒" },
+                    { "question": "Local vendors sold fresh produce from spotless stalls.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🧺" }
+                ]
+            },
+            {
+                "id": "nal",
+                "title": "Vacation",
+                "icon": "😞",
+                "description": "My visit to a slum area after the rainy season was a sad affair.",
+                "questions": [
+                    { "question": "A new health clinic had opened nearby offering free checkups.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🏥" },
+                    { "question": "The pits were still full of rain water and there was mud all around.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🌧️" },
+                    { "question": "The polluted water had caused various diseases.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🦠" },
+                    { "question": "There was no home without a sick person.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "😷" },
+                    { "question": "Children were so thin and severely malnourished.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🤒" },
+                    { "question": "Local vendors sold fresh produce from spotless stalls.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🧺" }
                 ]
             }
 
         ]
+
 
 
