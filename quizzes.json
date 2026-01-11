@@ -47,8 +47,8 @@
                 "icon": "👨‍👩‍👧‍👦",
                 "description": "TOPIC SENTENCE: \"Parents can help their children be successful in school by encouraging them.\"",
                 "questions": [
-                    { "question": "Giving children unlimited pocket money builds confidence.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💰" },
-                    { "question": "Buying the latest smartphone will improve grades.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "📱" },
+                    { "question": "Giving children unlimited pocket money builds aura.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💰" },
+                    { "question": "Buying the latest smartphone will make them popular.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "📱" },
                     { "question": "Letting children skip school when they feel bored is fine.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💤" },
                     { "question": "Parents should buy story books with pictures.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🖼️" },
                     { "question": "They can buy text books or tapes that help children learn to spell or read.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "📼" },
@@ -73,7 +73,7 @@
                 "id": "nal",
                 "title": "Canada",
                 "icon": "🍁",
-                "description": "TOPIC SENTENCE: \"Canada is one of the best countries in the world.\"",
+                "description": "TOPIC SENTENCE: \"Canada is one of the best countries in the world to live in.\"",
                 "questions": [
                     { "question": "Canada has an excellent health care system.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🏥" },
                     { "question": "Santa Claus officially lives in Canada (North Pole)", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🎅" },
@@ -85,6 +85,7 @@
             }
 
         ]
+
 
 
 
