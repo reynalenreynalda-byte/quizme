@@ -17,7 +17,7 @@
                 "id": "science",
                 "title": "Exercise",
                 "icon": "💪",
-                "description": "Exercise significantly improves mental well-being.",
+                "description": "TOPIC SENTENCE: \"Exercise significantly improves mental well-being.\"",
                 "questions": [
                     { "question": "Exercise builds large muscles quickly.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💪" },
                     { "question": "Running burns more calories than walking.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🏃‍♂️" },
@@ -31,7 +31,7 @@
                 "id": "movies",
                 "title": "Trees",
                 "icon": "🌳",
-                "description": "Trees provide many essential benefits to our environment.",
+                "description": "TOPIC SENTENCE: \"Trees provide many essential benefits to our environment.\"",
                 "questions": [
                     { "question": "They offer shade and shelter for animals.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "😎" },
                     { "question": "Trees produce oxygen.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🫧" },
@@ -45,7 +45,7 @@
                 "id": "reg",
                 "title": "Parents",
                 "icon": "👨‍👩‍👧‍👦",
-                "description": "Parents can help their children be successful in school by encouraging them.",
+                "description": "TOPIC SENTENCE: \"Parents can help their children be successful in school by encouraging them.\"",
                 "questions": [
                     { "question": "Giving children unlimited pocket money builds confidence.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💰" },
                     { "question": "Buying the latest smartphone will improve grades.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "📱" },
@@ -58,8 +58,8 @@
             {
                 "id": "rey",
                 "title": "Vacation",
-                "icon": "😞",
-                "description": "My visit to a slum area after the rainy season was a sad affair.",
+                "icon": "✈️",
+                "description": "TOPIC SENTENCE: \"My visit to a slum area after the rainy season was a sad affair.\"",
                 "questions": [
                     { "question": "A new health clinic had opened nearby offering free checkups.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🏥" },
                     { "question": "The pits were still full of rain water and there was mud all around.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🌧️" },
@@ -73,7 +73,7 @@
                 "id": "nal",
                 "title": "Canada",
                 "icon": "🍁",
-                "description": "Canada is one of the best countries in the world.",
+                "description": "TOPIC SENTENCE: \"Canada is one of the best countries in the world.\"",
                 "questions": [
                     { "question": "Canada has an excellent health care system.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🏥" },
                     { "question": "Santa Claus officially lives in Canada (North Pole)", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🎅" },
@@ -85,6 +85,7 @@
             }
 
         ]
+
 
 
 
