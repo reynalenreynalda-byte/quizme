@@ -43,7 +43,7 @@
         }
 
         .landing-page h1 {
-            font-size: 4em;
+            font-size: 56px;
             margin-bottom: 20px;
             text-shadow: 0 0 20px rgba(102, 126, 234, 0.8);
             animation: glow 2s ease-in-out infinite;
@@ -383,3 +383,4 @@
         .btn:hover {
             background: #764ba2;
         }
+
