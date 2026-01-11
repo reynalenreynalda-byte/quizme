@@ -71,20 +71,21 @@
             },
             {
                 "id": "nal",
-                "title": "Vacation",
-                "icon": "😞",
-                "description": "My visit to a slum area after the rainy season was a sad affair.",
+                "title": "Canada",
+                "icon": "🍁",
+                "description": "Canada is one of the best countries in the world.",
                 "questions": [
-                    { "question": "A new health clinic had opened nearby offering free checkups.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🏥" },
-                    { "question": "The pits were still full of rain water and there was mud all around.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🌧️" },
-                    { "question": "The polluted water had caused various diseases.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🦠" },
-                    { "question": "There was no home without a sick person.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "😷" },
-                    { "question": "Children were so thin and severely malnourished.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🤒" },
-                    { "question": "Local vendors sold fresh produce from spotless stalls.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🧺" }
+                    { "question": "Canada has an excellent health care system.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🏥" },
+                    { "question": "Santa Claus officially lives in Canada (North Pole)", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🎅" },
+                    { "question": "\"Canada\" comes from the Iroquoian word \"kanata\" meaning village.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🏘️" },
+                    { "question": "Canadian students are taught by well-trained teachers and are encouraged to continue studying at university.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🎓" },
+                    { "question": "Cities are clean and efficiently managed, and they have many parks and lots of space for people to live.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🌃" },
+                    { "question": "The country has six time zones all around their territory.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🕰️" }
                 ]
             }
 
         ]
+
 
 
 
