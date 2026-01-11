@@ -114,7 +114,7 @@
                 const quizPage = document.createElement('div');
                 quizPage.className = 'quiz-page';
                 quizPage.id = 'quiz-' + quiz.id;
-                quizPage.innerHTML = '<button class="back-btn">← Back</button><div class="header"><h1>' + quiz.icon + ' ' + quiz.title + '</h1><p>' + quiz.description + '</p><div class="score">Score: <span class="score-current">0</span> / <span class="score-total">' + quiz.questions.length + '</span></div></div><div class="cards-container"><div class="cards-grid"></div></div><div class="result-screen"><h2>🎉 Quiz Complete!</h2><p>Your Final Score: <span class="final-score"></span></p><button class="btn btn-restart">Try Again</button><button class="btn btn-menu">Back to Menu</button></div>';
+                quizPage.innerHTML = '<button class="back-btn">← Back</button><div class="header"><h1>' + quiz.description + '</h1><div class="score">Score: <span class="score-current">0</span> / <span class="score-total">' + quiz.questions.length + '</span></div></div><div class="cards-container"><div class="cards-grid"></div></div><div class="result-screen"><h2>🎉 Quiz Complete!</h2><p>Your Final Score: <span class="final-score"></span></p><button class="btn btn-restart">Try Again</button><button class="btn btn-menu">Back to Menu</button></div>';
                 quizPagesContainer.appendChild(quizPage);
                 
                 const backBtn = quizPage.querySelector('.back-btn');
