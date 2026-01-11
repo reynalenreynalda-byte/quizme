@@ -103,7 +103,7 @@
             quizzes.forEach(function(quiz) {
                 const card = document.createElement('div');
                 card.className = 'quiz-card';
-                card.innerHTML = '<div class="quiz-card-icon">' + quiz.icon + '</div><h3>' + quiz.title + '</h3><p>' + quiz.description + '</p><div class="card-count">' + quiz.questions.length + ' Cards</div>';
+                card.innerHTML = '<div class="quiz-card-icon">' + quiz.icon + '</div><h3>' + quiz.title + '</h3><div class="card-count">' + quiz.questions.length + ' Cards</div>';
                 card.onclick = function() { startQuiz(quiz.id); };
                 quizGrid.appendChild(card);
             });
@@ -114,7 +114,7 @@
                 const quizPage = document.createElement('div');
                 quizPage.className = 'quiz-page';
                 quizPage.id = 'quiz-' + quiz.id;
-                quizPage.innerHTML = '<button class="back-btn">← Back</button><div class="header"><h1>' + quiz.icon + ' ' + quiz.title + '</h1><div class="score">Score: <span class="score-current">0</span> / <span class="score-total">' + quiz.questions.length + '</span></div></div><div class="cards-container"><div class="cards-grid"></div></div><div class="result-screen"><h2>🎉 Quiz Complete!</h2><p>Your Final Score: <span class="final-score"></span></p><button class="btn btn-restart">Try Again</button><button class="btn btn-menu">Back to Menu</button></div>';
+                quizPage.innerHTML = '<button class="back-btn">← Back</button><div class="header"><h1>' + quiz.icon + ' ' + quiz.title + '</h1><p>' + quiz.description + '</p><div class="score">Score: <span class="score-current">0</span> / <span class="score-total">' + quiz.questions.length + '</span></div></div><div class="cards-container"><div class="cards-grid"></div></div><div class="result-screen"><h2>🎉 Quiz Complete!</h2><p>Your Final Score: <span class="final-score"></span></p><button class="btn btn-restart">Try Again</button><button class="btn btn-menu">Back to Menu</button></div>';
                 quizPagesContainer.appendChild(quizPage);
                 
                 const backBtn = quizPage.querySelector('.back-btn');
