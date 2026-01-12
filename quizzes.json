@@ -112,6 +112,20 @@
                 ]
             },
             {
+                "id": "rtt",
+                "title": "Electricity",
+                "icon": "⚡",
+                "description": "TOPIC SENTENCE: \"Electricity kept the small town alive during the storm.\"",
+                "questions": [
+                    { "question": "Streetlights blinked on one by one as wind rattled the windows and rain hammered the roofs.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🏠" },
+                    { "question": "In the bakery, ovens glowed and bakers worked through the night to feed neighbors who had lost power in other places.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🍞" },
+                    { "question": "Electricity made the whole town bright.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🌟" },
+                    { "question": "The rain was pouring during that day, flooding most of the areas.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🚣‍♀️" },
+                    { "question": "The old generator in the schoolyard coughed, then steadied, and the principal breathed easier knowing the clinic’s lights would stay on.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🔌" },
+                    { "question": "The Mayor distributed reliefs for the affected families on his own.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "👨‍💼" }
+                ]
+            },
+            {
                 "id": "lyn",
                 "title": "Cooking",
                 "icon": "👩🏻‍🍳",
@@ -197,6 +211,7 @@
             }
 
         ]
+
 
 
 
