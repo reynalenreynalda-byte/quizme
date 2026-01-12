@@ -82,9 +82,94 @@
                     { "question": "Cities are clean and efficiently managed, and they have many parks and lots of space for people to live.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🌃" },
                     { "question": "The country has six time zones all around their territory.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🕰️" }
                 ]
-            }
+            },
+            {
+                "id": "da",
+                "title": "Strawberry",
+                "icon": "🍓",
+                "description": "TOPIC SENTENCE: \"This is how you bake a strawberry cake.\"",
+                "questions": [
+                    { "question": "Buy an expensive oven to make more quality strawberry cake.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🎛️" },
+                    { "question": "Bring your friends over, in order to gain motivation to bake a strawberry cake.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🫂" },
+                    { "question": "You'll mix wet and dry ingredients.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🥣" },
+                    { "question": "You can pour the ingridients into prepared pans.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🍳" },
+                    { "question": "Bake at 177°C for 25-30 minutes.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🥧" },
+                    { "question": "Lastly, cool and frost with a strawberry buttercream or cream cheese frosting.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🧁" }
+                ]
+            },
+            {
+                "id": "ely",
+                "title": "Graduate",
+                "icon": "👩🏻‍🎓",
+                "description": "TOPIC SENTENCE: \"Graduating from high school is important for many different reasons.\"",
+                "questions": [
+                    { "question": "A high school diploma is usually required for college or vocational programs.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "📜" },
+                    { "question": "Graduates typically have access to better‑paying entry‑level jobs than non‑graduates.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "💵" },
+                    { "question": "Graduating guarantees immediate wealth.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🤑" },
+                    { "question": "Everyone who graduates will never change careers.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💼" },
+                    { "question": "High school fosters skills that help in work, further study, and daily life", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🎯" },
+                    { "question": "Graduation removes the need to learn new skills.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🙅🏻‍♀️" }
+                ]
+            },
+            {
+                "id": "lyn",
+                "title": "Cooking",
+                "icon": "👩🏻‍🍳",
+                "description": "TOPIC SENTENCE: \"Cooking requires a number of different skills.\"",
+                "questions": [
+                    { "question": "Only people with professional chef uniforms can cook well.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "👨‍🍳" },
+                    { "question": "Knife skills are essential  because they speed up preparation.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🔪" },
+                    { "question": "Knowledge of seasoning and flavor balance turns basic ingredients into tasty, well‑rounded dishes.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🧂" },
+                    { "question": "Understanding heat control helps prevent burning, achieve proper textures, and cook food safely.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "♨️" },
+                    { "question": "Time management and multitasking are needed to coordinate multiple dishes so everything finishes at the right moment.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🍽️" },
+                    { "question": "You must use expensive gadgets to make good food.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "💎" }
+                ]
+            },
+            {
+                "id": "tac",
+                "title": "Global Warming",
+                "icon": "🍓",
+                "description": "TOPIC SENTENCE: \"There are many possible contributing factors to global warming.\"",
+                "questions": [
+                    { "question": "Global warming is caused only by natural cycles and never by human activity.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🧍‍♂️" },
+                    { "question": "Turning off lights for one hour will stop global warming.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💡" },
+                    { "question": "Warming happens because the Earth is getting closer to the Sun this year.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🔆" },
+                    { "question": "Burning fossil fuels releases large amounts of carbon dioxide.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🦖" },
+                    { "question": "Deforestation reduces the number of trees that absorb carbon dioxide.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🌲" },
+                    { "question": "Global warming causes the temparature around the world to rise.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🌡️" }
+                ]
+            },
+             {
+                "id": "tay",
+                "title": "Ring of Fire",
+                "icon": "🍓",
+                "description": "TOPIC SENTENCE: \"The Philippines lies along the Pacific Ring of Fire.\"",
+                "questions": [
+                    { "question": "The country hosts dozens of active and potentially active volcanoes.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🌋" },
+                    { "question": "Only islands with beaches are on the Ring of Fire.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🌊" },
+                    { "question": "The Philippines regularly experiences earthquakes and tsunami.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "⚠️" },
+                    { "question": "Being on the Ring of Fire means the country has no earthquakes at all.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💍" },
+                    { "question": "There are 24 active volcanoes in the Philippines from the 750-915 volcanoes the Pacific Ring of Fire contains.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🔥" },
+                    { "question": "Volcanoes on the Ring of Fire are always safe to visit without restrictions.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "✅" }
+                ]
+            },
+            {
+                "id": "rtr",
+                "title": "Strawberry",
+                "icon": "🍓",
+                "description": "TOPIC SENTENCE: \"This is how you bake a strawberry cake.\"",
+                "questions": [
+                    { "question": "Buy an expensive oven to make more quality strawberry cake.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🎛️" },
+                    { "question": "Bring your friends over, in order to gain motivation to bake a strawberry cake.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🫂" },
+                    { "question": "You'll mix wet and dry ingredients.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🥣" },
+                    { "question": "You can pour the ingridients into prepared pans.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🍳" },
+                    { "question": "Bake at 177°C for 25-30 minutes.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🥧" },
+                    { "question": "Lastly, cool and frost with a strawberry buttercream or cream cheese frosting.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🧁" }
+                ]
+            },
 
         ]
+
 
 
 
