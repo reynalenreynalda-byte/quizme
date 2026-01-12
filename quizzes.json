@@ -166,9 +166,10 @@
                     { "question": "Bake at 177°C for 25-30 minutes.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🥧" },
                     { "question": "Lastly, cool and frost with a strawberry buttercream or cream cheese frosting.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🧁" }
                 ]
-            },
+            }
 
         ]
+
 
 
 
