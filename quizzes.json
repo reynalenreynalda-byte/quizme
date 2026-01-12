@@ -128,7 +128,7 @@
             {
                 "id": "tac",
                 "title": "Global Warming",
-                "icon": "🍓",
+                "icon": "🌎",
                 "description": "TOPIC SENTENCE: \"There are many possible contributing factors to global warming.\"",
                 "questions": [
                     { "question": "Global warming is caused only by natural cycles and never by human activity.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🧍‍♂️" },
@@ -142,7 +142,7 @@
              {
                 "id": "tay",
                 "title": "Ring of Fire",
-                "icon": "🍓",
+                "icon": "⭕",
                 "description": "TOPIC SENTENCE: \"The Philippines lies along the Pacific Ring of Fire.\"",
                 "questions": [
                     { "question": "The country hosts dozens of active and potentially active volcanoes.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🌋" },
@@ -155,20 +155,21 @@
             },
             {
                 "id": "rtr",
-                "title": "Strawberry",
-                "icon": "🍓",
-                "description": "TOPIC SENTENCE: \"This is how you bake a strawberry cake.\"",
+                "title": "Cars",
+                "icon": "🚗",
+                "description": "TOPIC SENTENCE: \"Electric cars are better than gas-fueled cars.\"",
                 "questions": [
-                    { "question": "Buy an expensive oven to make more quality strawberry cake.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🎛️" },
-                    { "question": "Bring your friends over, in order to gain motivation to bake a strawberry cake.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🫂" },
-                    { "question": "You'll mix wet and dry ingredients.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🥣" },
-                    { "question": "You can pour the ingridients into prepared pans.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🍳" },
-                    { "question": "Bake at 177°C for 25-30 minutes.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🥧" },
-                    { "question": "Lastly, cool and frost with a strawberry buttercream or cream cheese frosting.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🧁" }
+                    { "question": "Electric cars will be banned because batteries are impossible to recycle.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🚫" },
+                    { "question": "Soon, the governments are going to start limiting the number of gasoline cars being built because of its effect on the environment.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "⛽" },
+                    { "question": "The cost of gas will continue to rise, which will make it harder for people to afford to run gas powered cars.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "📈" },
+                    { "question": "Electric cars never need maintenance or repairs.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🔧" },
+                    { "question": "As battery technology improves, electric cars will be able to travel further on a charge and cost less to buy.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🛣️" },
+                    { "question": "People only buy cars for fashion, so technology and cost don’t matter.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "😎" }
                 ]
             }
 
         ]
+
 
 
 
