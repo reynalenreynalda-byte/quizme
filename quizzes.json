@@ -166,9 +166,38 @@
                     { "question": "As battery technology improves, electric cars will be able to travel further on a charge and cost less to buy.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🛣️" },
                     { "question": "People only buy cars for fashion, so technology and cost don’t matter.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "😎" }
                 ]
+            },
+            {
+                "id": "trt",
+                "title": "Video Games",
+                "icon": "🎮",
+                "description": "TOPIC SENTENCE: \"Children should not play video games.\"",
+                "questions": [
+                    { "question": "Children should be active, so playing outside is better than playing video games.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🤸" },
+                    { "question": "Many video games are violent.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🤬" },
+                    { "question": "It helps manage stress by influencing brain chemistry and boosts mood.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "😁" },
+                    { "question": "It allows for clearer thinking, making it a powerful tool for mental health.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "💭" },
+                    { "question": "Time spent playing video games could be spent reading or spending time with friends and family.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "👨‍👩‍👧‍👦" },
+                    { "question": "Reading are better for children than playing video games.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "📖" }
+                ]
+            },
+            {
+                "id": "rrt",
+                "title": "New York",
+                "icon": "🗽",
+                "description": "TOPIC SENTENCE: \"The three best attractions for tourists to visit in New York City include the Statue of Liberty, the Empire State Building, and Times Square.\"",
+                "questions": [
+                    { "question": "The Statue of Liberty symbolizes freedom and offers ferry rides and museum exhibits.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🗽" },
+                    { "question": "The Empire State Building provides panoramic city views from its observation decks, a must‑see for first‑time visitors.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🏙️" },
+                    { "question": "Times Square is quiet and has no entertainment or lights.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🔕" },
+                    { "question": "All tourists prefer museums over the Statue of Liberty, Empire State, or Times Square.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🏛️" },
+                    { "question": "Times Square is a vibrant entertainment hub with bright billboards, Broadway theaters, and year‑round street performances that capture New York’s energy.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🌃" },
+                    { "question": "Times Square is only open during the New Year’s Eve celebration.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🎉" }
+                ]
             }
 
         ]
+
 
 
 
