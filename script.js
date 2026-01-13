@@ -103,6 +103,7 @@
             quizzes.forEach(function(quiz) {
                 const card = document.createElement('div');
                 card.className = 'quiz-card';
+                card.setAttribute('data-quiz-id', quiz.id);
                 card.innerHTML = '<div class="quiz-card-icon">' + quiz.icon + '</div><h3>' + quiz.title + '</h3><div class="card-count">' + quiz.questions.length + ' Cards</div>';
                 card.onclick = function() { startQuiz(quiz.id); };
                 quizGrid.appendChild(card);
@@ -263,3 +264,4 @@
             initializeQuizCards(quizId);
 
         }
+
