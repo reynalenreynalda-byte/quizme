@@ -112,7 +112,7 @@ function initializeApp() {
         const quizPage = document.createElement('div');
         quizPage.className = 'quiz-page';
         quizPage.id = 'quiz-' + quiz.id;
-        quizPage.innerHTML = '<button class="back-btn">← Back</button><div class="header"><h2> TOPIC SENTENCE:</h2><h1>' + quiz.description + '</h1><div class="score">Score: <span class="score-current">0</span> / <span class="score-total">' + quiz.questions.length + '</span></div></div><div class="cards-container"><div class="cards-grid"></div></div><div class="result-screen"><h2>🎉 Quiz Complete!</h2><p>Your Final Score: <span class="final-score"></span></p><button class="btn btn-restart">Try Again</button><button class="btn btn-menu">Back to Menu</button></div>';
+        quizPage.innerHTML = '<button class="back-btn">← Back</button><div class="header"><h1>' + quiz.description + '</h1><div class="score">Score: <span class="score-current">0</span> / <span class="score-total">' + quiz.questions.length + '</span></div></div><div class="cards-container"><div class="cards-grid"></div></div><div class="result-screen"><h2>🎉 Quiz Complete!</h2><p>Your Final Score: <span class="final-score"></span></p><button class="btn btn-restart">Try Again</button><button class="btn btn-menu">Back to Menu</button></div>';
         quizPagesContainer.appendChild(quizPage);
         
         const backBtn = quizPage.querySelector('.back-btn');
@@ -263,17 +263,31 @@ function restartQuiz(quizId) {
 }
 
 function updateQuizCardsStatus() {
+    const quizGrid = document.getElementById('quizGrid');
+    const completedCards = [];
+    const activeCards = [];
+    
     quizzes.forEach(function(quiz) {
         const state = quizStates[quiz.id];
         const quizCard = document.querySelector('.quiz-card[data-quiz-id="' + quiz.id + '"]');
         
-        if (quizCard && state.answeredCards.length === quiz.questions.length) {
-            quizCard.classList.add('completed');
-        } else if (quizCard) {
-            quizCard.classList.remove('completed');
+        if (quizCard) {
+            if (state.answeredCards.length === quiz.questions.length) {
+                quizCard.classList.add('completed');
+                completedCards.push(quizCard);
+            } else {
+                quizCard.classList.remove('completed');
+                activeCards.push(quizCard);
+            }
         }
     });
+    
+    // Clear the grid and reorder: active cards first, then completed cards
+    quizGrid.innerHTML = '';
+    activeCards.forEach(function(card) {
+        quizGrid.appendChild(card);
+    });
+    completedCards.forEach(function(card) {
+        quizGrid.appendChild(card);
+    });
 }
-
-
-
