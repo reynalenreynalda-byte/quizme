@@ -3,7 +3,7 @@
                 "id": "general",
                 "title": "School",
                 "icon": "🏫",
-                "description": "TOPIC SENTENCE: \n\"My first day of school was a disaster from start to finish.\"",
+                "description": "My first day of school was a disaster from start to finish.",
                 "questions": [
                     { "question": "I arrived late to class.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🕰️" },
                     { "question": "The cafeteria served pizza for lunch.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🍕" },
@@ -17,7 +17,7 @@
                 "id": "science",
                 "title": "Exercise",
                 "icon": "💪",
-                "description": "TOPIC SENTENCE: \"Exercise significantly improves mental well-being.\"",
+                "description": "Exercise significantly improves mental well-being.",
                 "questions": [
                     { "question": "Exercise builds large muscles quickly.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💪" },
                     { "question": "Running burns more calories than walking.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🏃‍♂️" },
@@ -31,7 +31,7 @@
                 "id": "movies",
                 "title": "Trees",
                 "icon": "🌳",
-                "description": "TOPIC SENTENCE: \"Trees provide many essential benefits to our environment.\"",
+                "description": "Trees provide many essential benefits to our environment.",
                 "questions": [
                     { "question": "They offer shade and shelter for animals.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "😎" },
                     { "question": "Trees produce oxygen.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🫧" },
@@ -45,21 +45,21 @@
                 "id": "reg",
                 "title": "Parents",
                 "icon": "👨‍👩‍👧‍👦",
-                "description": "TOPIC SENTENCE: \"Parents can help their children be successful in school by encouraging them.\"",
+                "description": "Parents can help their children be successful in school by encouraging them.",
                 "questions": [
                     { "question": "Giving children unlimited pocket money builds aura.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💰" },
                     { "question": "Buying the latest smartphone will make them popular.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "📱" },
                     { "question": "Letting children skip school when they feel bored is fine.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💤" },
                     { "question": "Parents should buy story books with pictures.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🖼️" },
                     { "question": "They can buy text books or tapes that help children learn to spell or read.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "📼" },
-                    { "question": "Parents should reward them when they get an \"A\".", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🅰️" }
+                    { "question": "Parents should reward them when they get an A.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🅰️" }
                 ]
             },
             {
                 "id": "rey",
                 "title": "Vacation",
                 "icon": "✈️",
-                "description": "TOPIC SENTENCE: \"My visit to a slum area after the rainy season was a sad affair.\"",
+                "description": "My visit to a slum area after the rainy season was a sad affair.",
                 "questions": [
                     { "question": "A new health clinic had opened nearby offering free checkups.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🏥" },
                     { "question": "The pits were still full of rain water and there was mud all around.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🌧️" },
@@ -73,11 +73,11 @@
                 "id": "nal",
                 "title": "Canada",
                 "icon": "🍁",
-                "description": "TOPIC SENTENCE: \"Canada is one of the best countries in the world to live in.\"",
+                "description": "Canada is one of the best countries in the world to live in.",
                 "questions": [
                     { "question": "Canada has an excellent health care system.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🏥" },
                     { "question": "Santa Claus officially lives in Canada (North Pole)", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🎅" },
-                    { "question": "\"Canada\" comes from the Iroquoian word \"kanata\" meaning village.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🏘️" },
+                    { "question": "Canada comes from the Iroquoian word kanata meaning village.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🏘️" },
                     { "question": "Canadian students are taught by well-trained teachers and are encouraged to continue studying at university.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🎓" },
                     { "question": "Cities are clean and efficiently managed, and they have many parks and lots of space for people to live.", "options": ["Supporting Detail", "Not a Suppoting Detail"], "correct": 0, "icon": "🌃" },
                     { "question": "The country has six time zones all around their territory.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🕰️" }
@@ -87,7 +87,7 @@
                 "id": "da",
                 "title": "Strawberry",
                 "icon": "🍓",
-                "description": "TOPIC SENTENCE: \"This is how you bake a strawberry cake.\"",
+                "description": "This is how you bake a strawberry cake.",
                 "questions": [
                     { "question": "Buy an expensive oven to make more quality strawberry cake.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🎛️" },
                     { "question": "Bring your friends over, in order to gain motivation to bake a strawberry cake.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🫂" },
@@ -101,7 +101,7 @@
                 "id": "ely",
                 "title": "Graduate",
                 "icon": "👩🏻‍🎓",
-                "description": "TOPIC SENTENCE: \"Graduating from high school is important for many different reasons.\"",
+                "description": "Graduating from high school is important for many different reasons.",
                 "questions": [
                     { "question": "A high school diploma is usually required for college or vocational programs.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "📜" },
                     { "question": "Graduates typically have access to better‑paying entry‑level jobs than non‑graduates.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "💵" },
@@ -115,7 +115,7 @@
                 "id": "rtt",
                 "title": "Electricity",
                 "icon": "⚡",
-                "description": "TOPIC SENTENCE: \"Electricity kept the small town alive during the storm.\"",
+                "description": "Electricity kept the small town alive during the storm.",
                 "questions": [
                     { "question": "Streetlights blinked on one by one as wind rattled the windows and rain hammered the roofs.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🏠" },
                     { "question": "In the bakery, ovens glowed and bakers worked through the night to feed neighbors who had lost power in other places.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🍞" },
@@ -129,7 +129,7 @@
                 "id": "lyn",
                 "title": "Cooking",
                 "icon": "👩🏻‍🍳",
-                "description": "TOPIC SENTENCE: \"Cooking requires a number of different skills.\"",
+                "description": "Cooking requires a number of different skills.",
                 "questions": [
                     { "question": "Only people with professional chef uniforms can cook well.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "👨‍🍳" },
                     { "question": "Knife skills are essential  because they speed up preparation.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🔪" },
@@ -143,7 +143,7 @@
                 "id": "tac",
                 "title": "Global Warming",
                 "icon": "🌎",
-                "description": "TOPIC SENTENCE: \"There are many possible contributing factors to global warming.\"",
+                "description": "There are many possible contributing factors to global warming.",
                 "questions": [
                     { "question": "Global warming is caused only by natural cycles and never by human activity.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🧍‍♂️" },
                     { "question": "Turning off lights for one hour will stop global warming.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💡" },
@@ -157,7 +157,7 @@
                 "id": "tay",
                 "title": "Ring of Fire",
                 "icon": "⭕",
-                "description": "TOPIC SENTENCE: \"The Philippines lies along the Pacific Ring of Fire.\"",
+                "description": "The Philippines lies along the Pacific Ring of Fire.",
                 "questions": [
                     { "question": "The country hosts dozens of active and potentially active volcanoes.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🌋" },
                     { "question": "Only islands with beaches are on the Ring of Fire.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🌊" },
@@ -171,7 +171,7 @@
                 "id": "rtr",
                 "title": "Cars",
                 "icon": "🚗",
-                "description": "TOPIC SENTENCE: \"Electric cars are better than gas-fueled cars.\"",
+                "description": "Electric cars are better than gas-fueled cars.",
                 "questions": [
                     { "question": "Electric cars will be banned because batteries are impossible to recycle.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🚫" },
                     { "question": "Soon, the governments are going to start limiting the number of gasoline cars being built because of its effect on the environment.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "⛽" },
@@ -185,7 +185,7 @@
                 "id": "trt",
                 "title": "Video Games",
                 "icon": "🎮",
-                "description": "TOPIC SENTENCE: \"Children should not play video games.\"",
+                "description": "Children should not play video games.",
                 "questions": [
                     { "question": "Children should be active, so playing outside is better than playing video games.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🤸" },
                     { "question": "Many video games are violent.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🤬" },
@@ -199,7 +199,7 @@
                 "id": "rrt",
                 "title": "New York",
                 "icon": "🗽",
-                "description": "TOPIC SENTENCE: \"The three best attractions for tourists to visit in New York City include the Statue of Liberty, the Empire State Building, and Times Square.\"",
+                "description": "The three best attractions for tourists to visit in New York City include the Statue of Liberty, the Empire State Building, and Times Square.",
                 "questions": [
                     { "question": "The Statue of Liberty symbolizes freedom and offers ferry rides and museum exhibits.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🗽" },
                     { "question": "The Empire State Building provides panoramic city views from its observation decks, a must‑see for first‑time visitors.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🏙️" },
@@ -211,7 +211,6 @@
             }
 
         ]
-
 
 
 
