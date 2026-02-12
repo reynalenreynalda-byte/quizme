@@ -3,45 +3,46 @@
                 "id": "general",
                 "title": "School",
                 "icon": "🏫",
-                "description": "My first day of school was a disaster from start to finish.",
+                "description": "Read the sentences below. Each sentence has an error related to purpose or punctuation. Rewrite it correctly, then briefly explain the error.",
                 "questions": [
-                    { "question": "I arrived late to class.", "options": ["Close"], "correct": 0, "icon": "🍕" },
-                    { "question": "The cafeteria served pizza for lunch.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🍕" },
-                    { "question": "My history teacher gave a pop quiz I wasn't ready for.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "📝" },
-                    { "question": "In botany, I had a sneezing fit from a plant and had to leave the room.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🌱" },
-                    { "question": "I found a lost wallet and returned it to the office.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💵" },
-                    { "question": "I locked my keys in my car after school", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🔒" }
+                    { "question": "What a lovely day.", "options": ["Next"], "correct": 0, "icon": "🍕" },
+                    { "question": "Bring your science project tomorrow?", "options": ["Next"], "correct": 0, "icon": "🍕" },
+                    { "question": "Did any of you break the mirror!", "options": ["Next"], "correct": 0, "icon": "📝" },
+                    { "question": "Please turn down the volume of your phone?", "options": ["Next"], "correct": 0, "icon": "🌱" },
+                    { "question": "The way she dances looks like she’s enchanting the audience", "options": ["Next"], "correct": 0, "icon": "💵" },
+                    { "question": "The weather today is a bit chilly?", "options": ["Next"], "correct": 0, "icon": "🔒" }
                 ]
             },
             {
                 "id": "science",
                 "title": "Exercise",
                 "icon": "💪",
-                "description": "Exercise significantly improves mental well-being.",
+                "description": "Read the sentences below. Each sentence has an error related to purpose or punctuation. Rewrite it correctly, then briefly explain the error.",
                 "questions": [
-                    { "question": "Exercise builds large muscles quickly.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "💪" },
-                    { "question": "Running burns more calories than walking.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🏃‍♂️" },
-                    { "question": "It helps manage stress by influencing brain chemistry and boosts mood.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "😁" },
-                    { "question": "It allows for clearer thinking, making it a powerful tool for mental health.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "💭" },
-                    { "question": "Exercise causes muscle soreness the next day.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "😣" },
-                    { "question": "Exercise improves posture and balance.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "⚖️" }
+                    { "question": "What a lovely day.", "options": ["Next"], "correct": 0, "icon": "🍕" },
+                    { "question": "Bring your science project tomorrow?", "options": ["Next"], "correct": 0, "icon": "🍕" },
+                    { "question": "Did any of you break the mirror!", "options": ["Next"], "correct": 0, "icon": "📝" },
+                    { "question": "Please turn down the volume of your phone?", "options": ["Next"], "correct": 0, "icon": "🌱" },
+                    { "question": "The way she dances looks like she’s enchanting the audience", "options": ["Next"], "correct": 0, "icon": "💵" },
+                    { "question": "The weather today is a bit chilly?", "options": ["Next"], "correct": 0, "icon": "🔒" }
                 ]
             },
             {
                 "id": "movies",
                 "title": "Trees",
                 "icon": "🌳",
-                "description": "Trees provide many essential benefits to our environment.",
+                "description": "Read the sentences below. Each sentence has an error related to purpose or punctuation. Rewrite it correctly, then briefly explain the error.",
                 "questions": [
-                    { "question": "They offer shade and shelter for animals.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "😎" },
-                    { "question": "Trees produce oxygen.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🫧" },
-                    { "question": "Trees attract bees that make honey.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🐝" },
-                    { "question": "Leaves make a mess on sidewalks in autumn.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🍃" },
-                    { "question": "They help prevent soil erosion and floods.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🪨" },
-                    { "question": "Construction crews remove trees to build roads.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🦺" }
+                    { "question": "What a lovely day.", "options": ["Next"], "correct": 0, "icon": "🍕" },
+                    { "question": "Bring your science project tomorrow?", "options": ["Next"], "correct": 0, "icon": "🍕" },
+                    { "question": "Did any of you break the mirror!", "options": ["Next"], "correct": 0, "icon": "📝" },
+                    { "question": "Please turn down the volume of your phone?", "options": ["Next"], "correct": 0, "icon": "🌱" },
+                    { "question": "The way she dances looks like she’s enchanting the audience", "options": ["Next"], "correct": 0, "icon": "💵" },
+                    { "question": "The weather today is a bit chilly?", "options": ["Next"], "correct": 0, "icon": "🔒" }
                 ]
                  }
             ]
+
 
 
 
