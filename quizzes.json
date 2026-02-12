@@ -1,8 +1,8 @@
  [
             {
                 "id": "general",
-                "title": "School",
-                "icon": "🏫",
+                "title": "One",
+                "icon": "1️⃣",
                 "description": "Read the sentences below. Each sentence has an error related to purpose or punctuation. Rewrite it correctly, then briefly explain the error.",
                 "questions": [
                     { "question": "Fix the error in this sentence: What a lovely day.", "options": ["Next"], "correct": 0, "icon": "🍕" },
@@ -15,8 +15,8 @@
             },
             {
                 "id": "science",
-                "title": "Exercise",
-                "icon": "💪",
+                "title": "Two",
+                "icon": "2️⃣",
                 "description": "Read the sentences below. Each sentence has an error related to purpose or punctuation. Rewrite it correctly, then briefly explain the error.",
                 "questions": [
                     { "question": "Fix the error in this sentence: What a lovely day.", "options": ["Next"], "correct": 0, "icon": "🍕" },
@@ -29,8 +29,8 @@
             },
             {
                 "id": "movies",
-                "title": "Trees",
-                "icon": "🌳",
+                "title": "Three",
+                "icon": "3️⃣",
                 "description": "Read the sentences below. Each sentence has an error related to purpose or punctuation. Rewrite it correctly, then briefly explain the error.",
                 "questions": [
                     { "question": "Fix the error in this sentence: What a lovely day.", "options": ["Next"], "correct": 0, "icon": "🍕" },
@@ -42,6 +42,7 @@
                 ]
                  }
             ]
+
 
 
 
