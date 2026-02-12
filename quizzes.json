@@ -40,7 +40,7 @@
                     { "question": "They help prevent soil erosion and floods.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🪨" },
                     { "question": "Construction crews remove trees to build roads.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🦺" }
             }
-        ]
+            ]
 
 
 
