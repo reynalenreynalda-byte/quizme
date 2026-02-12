@@ -5,7 +5,7 @@
                 "icon": "🏫",
                 "description": "My first day of school was a disaster from start to finish.",
                 "questions": [
-                    { "question": "I arrived late to class."},
+                    { "question": "I arrived late to class."}, "options": [""], "correct": 0, "icon": "📝"},
                     { "question": "The cafeteria served pizza for lunch.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 1, "icon": "🍕" },
                     { "question": "My history teacher gave a pop quiz I wasn't ready for.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "📝" },
                     { "question": "In botany, I had a sneezing fit from a plant and had to leave the room.", "options": ["Supporting Detail", "Not a Supporting Detail"], "correct": 0, "icon": "🌱" },
@@ -42,6 +42,7 @@
                 ]
                  }
             ]
+
 
 
 
