@@ -5,12 +5,12 @@
                 "icon": "🏫",
                 "description": "Read the sentences below. Each sentence has an error related to purpose or punctuation. Rewrite it correctly, then briefly explain the error.",
                 "questions": [
-                    { "question": "What a lovely day.", "options": ["Next"], "correct": 0, "icon": "🍕" },
-                    { "question": "Bring your science project tomorrow?", "options": ["Next"], "correct": 0, "icon": "🍕" },
-                    { "question": "Did any of you break the mirror!", "options": ["Next"], "correct": 0, "icon": "📝" },
-                    { "question": "Please turn down the volume of your phone?", "options": ["Next"], "correct": 0, "icon": "🌱" },
-                    { "question": "The way she dances looks like she’s enchanting the audience", "options": ["Next"], "correct": 0, "icon": "💵" },
-                    { "question": "The weather today is a bit chilly?", "options": ["Next"], "correct": 0, "icon": "🔒" }
+                    { "question": "Fix the error in this sentence: What a lovely day.", "options": ["Next"], "correct": 0, "icon": "🍕" },
+                    { "question": "Fix the error in this sentence: Bring your science project tomorrow?", "options": ["Next"], "correct": 0, "icon": "🍕" },
+                    { "question": "Fix the error in this sentence: Did any of you break the mirror!", "options": ["Next"], "correct": 0, "icon": "📝" },
+                    { "question": "Fix the error in this sentence: Please turn down the volume of your phone?", "options": ["Next"], "correct": 0, "icon": "🌱" },
+                    { "question": "Fix the error in this sentence: The way she dances looks like she’s enchanting the audience", "options": ["Next"], "correct": 0, "icon": "💵" },
+                    { "question": "Fix the error in this sentence: The weather today is a bit chilly?", "options": ["Next"], "correct": 0, "icon": "🔒" }
                 ]
             },
             {
@@ -19,12 +19,12 @@
                 "icon": "💪",
                 "description": "Read the sentences below. Each sentence has an error related to purpose or punctuation. Rewrite it correctly, then briefly explain the error.",
                 "questions": [
-                    { "question": "What a lovely day.", "options": ["Next"], "correct": 0, "icon": "🍕" },
-                    { "question": "Bring your science project tomorrow?", "options": ["Next"], "correct": 0, "icon": "🍕" },
-                    { "question": "Did any of you break the mirror!", "options": ["Next"], "correct": 0, "icon": "📝" },
-                    { "question": "Please turn down the volume of your phone?", "options": ["Next"], "correct": 0, "icon": "🌱" },
-                    { "question": "The way she dances looks like she’s enchanting the audience", "options": ["Next"], "correct": 0, "icon": "💵" },
-                    { "question": "The weather today is a bit chilly?", "options": ["Next"], "correct": 0, "icon": "🔒" }
+                    { "question": "Fix the error in this sentence: What a lovely day.", "options": ["Next"], "correct": 0, "icon": "🍕" },
+                    { "question": "Fix the error in this sentence: Bring your science project tomorrow?", "options": ["Next"], "correct": 0, "icon": "🍕" },
+                    { "question": "Fix the error in this sentence: Did any of you break the mirror!", "options": ["Next"], "correct": 0, "icon": "📝" },
+                    { "question": "Fix the error in this sentence: Please turn down the volume of your phone?", "options": ["Next"], "correct": 0, "icon": "🌱" },
+                    { "question": "Fix the error in this sentence: The way she dances looks like she’s enchanting the audience", "options": ["Next"], "correct": 0, "icon": "💵" },
+                    { "question": "Fix the error in this sentence: The weather today is a bit chilly?", "options": ["Next"], "correct": 0, "icon": "🔒" }
                 ]
             },
             {
@@ -33,15 +33,16 @@
                 "icon": "🌳",
                 "description": "Read the sentences below. Each sentence has an error related to purpose or punctuation. Rewrite it correctly, then briefly explain the error.",
                 "questions": [
-                    { "question": "What a lovely day.", "options": ["Next"], "correct": 0, "icon": "🍕" },
-                    { "question": "Bring your science project tomorrow?", "options": ["Next"], "correct": 0, "icon": "🍕" },
-                    { "question": "Did any of you break the mirror!", "options": ["Next"], "correct": 0, "icon": "📝" },
-                    { "question": "Please turn down the volume of your phone?", "options": ["Next"], "correct": 0, "icon": "🌱" },
-                    { "question": "The way she dances looks like she’s enchanting the audience", "options": ["Next"], "correct": 0, "icon": "💵" },
-                    { "question": "The weather today is a bit chilly?", "options": ["Next"], "correct": 0, "icon": "🔒" }
+                    { "question": "Fix the error in this sentence: What a lovely day.", "options": ["Next"], "correct": 0, "icon": "🍕" },
+                    { "question": "Fix the error in this sentence: Bring your science project tomorrow?", "options": ["Next"], "correct": 0, "icon": "🍕" },
+                    { "question": "Fix the error in this sentence: Did any of you break the mirror!", "options": ["Next"], "correct": 0, "icon": "📝" },
+                    { "question": "Fix the error in this sentence: Please turn down the volume of your phone?", "options": ["Next"], "correct": 0, "icon": "🌱" },
+                    { "question": "Fix the error in this sentence: The way she dances looks like she’s enchanting the audience", "options": ["Next"], "correct": 0, "icon": "💵" },
+                    { "question": "Fix the error in this sentence: The weather today is a bit chilly?", "options": ["Next"], "correct": 0, "icon": "🔒" }
                 ]
                  }
             ]
+
 
 
 
